@@ -105,5 +105,5 @@ The system consists of:
 ---
 
 ## **Contributors**
-- [Tran Dong Truc Lam](#)
+- [Tran Dong Truc Lam](https://github.com/limelight-hub)
 
